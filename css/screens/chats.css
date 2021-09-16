@@ -1,0 +1,17 @@
+.user-component__chats {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.user-component__text_chats {
+  color: black;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.user-component__subtitle_chats {
+  margin-top: 8px;
+  font-size: 17px;
+  color: black;
+}
