@@ -5,6 +5,7 @@
   position: fixed;
   width: 100%;
   background-color: white;
+  font-size: 20px;
 }
 .status-bar__coulmn {
   width: 33%;

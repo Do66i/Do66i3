@@ -1,3 +1,14 @@
+.status-bar--login {
+  display: flex;
+  justify-content: center;
+  padding: 5px 3px;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  font-size: 20px;
+  top: 0.01px;
+}
+
 .Welcome-header {
   margin: 90px 0px;
   text-align: center;

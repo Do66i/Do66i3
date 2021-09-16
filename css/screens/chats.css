@@ -4,6 +4,20 @@
   padding: 10px;
 }
 
+.user-component__subtitle_chats-alram {
+  background-color: tomato;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+  border-radius: 15px;
+  position: absolute;
+  right: 10px;
+}
+
 .user-component__text_chats {
   color: black;
   font-weight: 600;
