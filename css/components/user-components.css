@@ -40,3 +40,11 @@
 .user-component__title--not-bold {
   font-weight: 400;
 }
+
+.user-componet__time {
+  position: relative;
+  left: 22px;
+  margin: 5px 0px;
+  display: block;
+  color: rgba(0, 0, 0, 0.5);
+}
